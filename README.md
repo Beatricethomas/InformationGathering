@@ -75,6 +75,7 @@ Host: example.com
 
 
 ## httprint
+httprint -h 172.17.52.201 -s /usr/share/httprint/signatures.txt -P0 |more
 ## output
 
 
