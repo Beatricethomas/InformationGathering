@@ -73,13 +73,18 @@ Host: example.com
 
 ## Whatweb
 ## output
-<img width="575" height="279" alt="image" src="https://github.com/user-attachments/assets/659cf373-5a6d-4acb-9e65-a493cd3c0197" />
+<img width="812" height="524" alt="image" src="https://github.com/user-attachments/assets/6b28fbe6-c466-4ca9-99b4-330f6878970b" />
+
+
+
+
 
 
 ## httprint
 httprint -h 172.17.52.201 -s /usr/share/httprint/signatures.txt -P0 |more
 ## output
-<img width="810" height="606" alt="image" src="https://github.com/user-attachments/assets/6f0b40fa-3208-4801-87ec-cedef953f1a4" />
+
+<img width="835" height="667" alt="image" src="https://github.com/user-attachments/assets/9b7e85f5-df26-477c-bb19-b076e1e49c04" />
 
 
 
