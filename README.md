@@ -73,6 +73,8 @@ The `web.archive.org` website, also known as the Wayback Machine, is an online d
 sudo nc example.com 80
 GET / HTTP/1.1
 Host: example.com
+
+
 <img width="226" height="96" alt="Screenshot_2026-04-30_04-51-58" src="https://github.com/user-attachments/assets/9fc5e4db-06f3-4c4b-b8c0-17ab93827d15" />
 
 ### Explanation 
